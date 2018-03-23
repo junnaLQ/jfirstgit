@@ -1,0 +1,2 @@
+This file i created using mynewbranch
+This file shoudl be present only in mynewbranch,unless I merge this branch to master
